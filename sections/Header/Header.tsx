@@ -95,7 +95,7 @@ const Desktop = (
         >
           <Icon id="search" />
           <span class="text-base-400 truncate">
-            Search products, brands...
+            Buscar...
           </span>
         </label>
 
